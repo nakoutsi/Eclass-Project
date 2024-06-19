@@ -5,5 +5,5 @@ In the files that have been published, you can see the code we have created for 
 Additionally, the index page is ready for display if you want to see the template. For the project, the template of the page was a ready-made free template that matched our preferences, so we incorporated it into our page without having to design anything from scratch.
 
 # Contributors
-Panagiotis Samaras
-Petros Nakoutsi
+-Panagiotis Samaras
+-Petros Nakoutsi
